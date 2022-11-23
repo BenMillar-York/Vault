@@ -1,0 +1,1 @@
+Conductivity is the inverse of [[Resistivity]], usually denoted by the symbol $\sigma$, it is measured in siemers per metre (S/m)

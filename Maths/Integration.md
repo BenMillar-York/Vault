@@ -1,0 +1,1 @@
+Integration is the process of finding the area under a curve as defined by a function, it is the opposite of [[Derivative|Differentiation]].

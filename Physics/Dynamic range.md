@@ -1,0 +1,1 @@
+The dynamic range is the ratio between the largest and smallest values that a certain quality can assume.

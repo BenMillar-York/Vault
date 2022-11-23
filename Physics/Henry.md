@@ -1,0 +1,1 @@
+The henry, denoted by the symbol $H$ is the unit of electical inductance.
