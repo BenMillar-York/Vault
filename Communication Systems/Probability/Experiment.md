@@ -1,0 +1,1 @@
+An experiment is defined as an activity that is measured or observed, it is made up of a series of experimental trials.

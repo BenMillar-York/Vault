@@ -1,0 +1,1 @@
+An event, is a possible outcome from an [[Experiment]].

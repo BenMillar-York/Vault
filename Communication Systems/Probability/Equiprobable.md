@@ -1,0 +1,1 @@
+Two or more [[Event|events]] having equal likelyhood to occur, having the same [[Probability]].
